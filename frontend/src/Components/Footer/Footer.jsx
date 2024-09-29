@@ -20,6 +20,7 @@ const Footer = () => {
         <li>About</li>
         <li>Contact</li>
       </ul>
+      
       <div className="footer-social-icons">
         <div className="footer-icons-container">
             <a href='https://www.instagram.com/'><img src={instagram_icon} alt="" /></a>
